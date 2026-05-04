@@ -1,0 +1,22 @@
+# Shotly
+
+> Shotly is an Android app for real estate photography that solves the core HDR problem in interior shots: a single phone exposure either blows out the windows or leaves the room dark. Shotly automatically fires a bracket of exposures and merges them on-device into a single, balanced, window-lit photo — no desktop software, no Lightroom, no cloud upload required. It is built on the Android Camera2 API and is specifically tuned for interior real estate, producing natural-looking results suitable for MLS listings, Airbnb, and property marketing. The pricing model is free to preview, pay per exported shot — no subscription.
+
+## Primary resource
+
+- Landing page: https://shootlyapp.net/
+
+## Who it's for
+
+- Real estate agents who photograph their own listings
+- Airbnb and short-term rental hosts who need listing-quality interior photos
+- Property photographers looking for a fast, mobile-first HDR workflow
+
+## Key facts
+
+- Platform: Android only (Camera2 API)
+- Requires: Android 7 or later
+- No iPhone / iOS version
+- No desktop software required
+- Pricing: Free to download and preview; pay per exported shot; no subscription
+- HDR processing: fully on-device, no cloud upload

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Read(//Users/lukmanabdh/.nvm/versions/**)",
+      "Read(//Users/lukmanabdh/.bun/**)"
+    ]
+  }
+}
