@@ -1,4 +1,4 @@
-import { Aperture } from '@/lib/aperture';
+import { Aperture } from '@/lib/aperture.tsx';
 import FAQ from '@/components/FAQ';
 
 const PLAY_STORE_URL = '#'; // Replace with actual Google Play Store URL
